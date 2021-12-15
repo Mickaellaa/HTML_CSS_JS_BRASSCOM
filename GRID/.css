@@ -1,0 +1,36 @@
+@charset "utf-8";
+
+body{
+  background-color:cornflowerblue;
+  color: #191970
+font-family:arial,Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+   background-color: indigo;
+   color: e 6em 6fa;
+   line-height: 200%
+   font-family: Georgia, "Times New Roman", serif;
+   text-shadow: 3px 3px 5px #cccccc;
+   }
+
+   p{
+    font: size 90em;
+    text-align: center;
+    color: deeppink;
+    text-indent: 3em;
+
+   }
+   
+h2{ 
+    background-color:darksalmon
+    crimson;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+footer{
+    background-color: black;
+    color:#191970
+    
+}

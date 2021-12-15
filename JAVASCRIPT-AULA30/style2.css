@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+body{
+    background: linear-gradient(96deg, rgb(85, 95, 238), rgb(85, 95, 238));
+}
+
+.carda{
+    background: rgba(228, 10, 10, 0.589);
+    text-align:center ;
+    margin: 5rem auto;
+    height: 60vh;
+    width: 60vw;
+    border-radius: 5rem;
+}
+
+h1{
+    padding: 3rem;
+    color:steelblue;
+}
+
+
+ul li{
+    margin: 0 auto;
+    width: 40vw;
+    line-height: 2;
+    border-bottom: 2px solid rgb(2, 3, 2);;
+    font-size: 1.5rem;
+    color:rgb(238, 223, 85);
+    position: relative;
+}
+
+@media(max-width: 1132px){
+    div{
+    height: 70vh;
+    width: 70vw;
+    }
+
+    ul li{
+        width: 60vw;
+    }
+}
+
+p{
+    font-size: 1rem;
+    font-weight: 700;
+    position: absolute;
+    width: 6rem;
+    bottom: 0;
+    left: 0;
+    border: 5px dotted black;
+    color:hotpink;
+    padding:0;
+}

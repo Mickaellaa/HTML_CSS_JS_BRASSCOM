@@ -1,0 +1,19 @@
+
+.borda1{
+    border: solid 2px coral;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px ;
+    padding-bottom:15px ;
+   }
+   
+   
+   .borda2{
+      border: dotted 5px red;
+      padding: 15px 25px 15px 25px;
+   }
+   
+   .borda3{
+      border: dashed  5px green;
+      padding:50px 70px 50px 100px;
+   }

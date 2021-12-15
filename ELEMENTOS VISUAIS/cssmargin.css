@@ -1,0 +1,15 @@
+body{
+    background-color:yellow;
+    color:black;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 50px;
+    
+  }
+  
+  p{
+    background-color: chartreuse;
+    color: blue;
+     margin-top: 50px;
+     margin-bottom:50px;
+  }

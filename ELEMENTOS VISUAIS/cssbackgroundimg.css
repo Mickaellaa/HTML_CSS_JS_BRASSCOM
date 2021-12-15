@@ -1,0 +1,19 @@
+body{
+    background-image:url("pngtree-simple-light-blue-background-image_396574.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:center;
+    background-attachment: fixed;
+  
+  }
+  p{
+   font-size: 30px;   
+  }
+  
+  h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: tomato;
+    color:yellow
+  
+  
+  }

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+<head>  
+   <meta charset="utf-8">
+   <title> Trabalhando com pseudoelementos </title>
+
+   <style> 
+body{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+a{
+ color:red;   
+ text-decoration: none;
+ font-weight: bold;
+}
+
+a:hover{
+color: black;    
+text-decoration:underline
+}
+
+a:active{
+  color:yellow
+}
+
+a::after{
+content:"[link] ";
+text-decoration: none;
+font-weight: normal;
+color:seagreen;
+}
+
+</style>
+  
+</head>
+
+<body> 
+
+<h1> Personalizando links</h1>
+
+   <ul> 
+
+ <li><a href="https://github.com/Mickaellaa/">Repositorio do Github </a></li>
+ <li><a href="https://www.youtube.com/">Youtube </a></li>
+ <li><a href="https://www.cursoemvideo.com/">Site do curso em video </a></li>
+
+    </ul>
+
+
+</body>
+
+</html>
